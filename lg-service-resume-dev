@@ -1,0 +1,4 @@
+lg:
+  message: localhost:3306/db100
+config:
+  desc: hello lg,100
