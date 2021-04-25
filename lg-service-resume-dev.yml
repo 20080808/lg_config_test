@@ -1,4 +1,4 @@
 lg:
-  message: localhost:3306/db200
+  message: localhost:3306/db300
 config:
-  desc: hello lg,200
+  desc: hello lg,300
