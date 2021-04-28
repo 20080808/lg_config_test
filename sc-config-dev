@@ -21,5 +21,6 @@ spring:
             enable: true
             required: true  
             
-ipParam:
+ipSafeParam:
   timeRange: 60000 # 60秒
+  criticalTimes: 100
